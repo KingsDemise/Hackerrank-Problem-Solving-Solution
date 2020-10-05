@@ -12,7 +12,7 @@ int main() {
         s=s+a[i];
         }
     printf("%li",s);
-      
+        
     
     return 0;
 }
